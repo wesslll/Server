@@ -1,6 +1,6 @@
 //
 //  main.cpp
-//  Server
+//
 //
 //  Created by Nikita on 5/20/22.
 //
